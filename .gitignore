@@ -1,0 +1,33 @@
+# Dart specific files
+.dart_tool/
+.packages
+.pub/
+build/
+
+# VS Code specific files
+.vscode/
+.history/
+.idea/
+
+# Common files
+*.log
+*.tmp
+*.temp
+
+# Windows-specific files
+Thumbs.db
+.DS_Store
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unix specific files
+*.swp
+*~
+.nfs*
+
+# Others
+*.lock
+*.lockfile
